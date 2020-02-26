@@ -6,3 +6,22 @@
 2020-02-26T07:53:28.535Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
 2020-02-26T08:03:54.763Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
 2020-02-26T08:14:37.328Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2020-02-26T09:17:50.538Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87100630_2556980391256907_1058207210758209536_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87120373_2556980467923566_3022094359907532800_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87228086_2556980507923562_1786821298396069888_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87208232_2556980171256929_4146934359015817216_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87252503_1024259404627489_5352208229310922752_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87149368_1024251527961610_491911593777430528_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87274112_1024251431294953_1620043625188556800_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87276999_1024251454628284_8150479529752657920_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87324999_1024259431294153_462752313480577024_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87365680_2556980344590245_2814678397635002368_o.jpg'
+2020-02-26T09:17:50.576Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87370703_2556980284590251_1954751324214001664_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87371561_1024251561294940_9109985827953311744_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87398693_1024251481294948_7823341916744843264_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87434348_2556980431256903_1019273405234413568_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87475241_2556980104590269_4199140871909670912_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87598043_2556979731256973_2201897890048114688_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87732249_2556980541256892_4783278556132147200_o.jpg'
+2020-02-26T09:17:50.577Z thumbsup:warn EACCES: permission denied, lstat '/input/2020_02_23 - February Funkhana/87813279_2556980311256915_1275322042408763392_o.jpg'
